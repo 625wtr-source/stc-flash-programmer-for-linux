@@ -1,7 +1,7 @@
 This is a GUI programmer which is used to burn firmware to mcu on linux(ubuntu).
 Instead of typing on the shell you can do it easier during embedded development. 
 ```bash
-cd ~/download
+cd ~/Downloads
 unzip stc_flash_gui_linux.zip -d stc_flash_gui
 cd stc_flash_gui
 ```
