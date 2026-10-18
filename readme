@@ -9,4 +9,4 @@ sudo apt install -y python3-tk
 python3 stc_flash_gui.py
 
 //Then you can use it on your linux system,have a nice day!
-//You need install sdcc first.
+//You need install sdcc and stcgal first.
