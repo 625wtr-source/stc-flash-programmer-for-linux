@@ -1,5 +1,5 @@
-//This is a GUI programmer which is used to burn firmware to mcu on linux(ubuntu).
-//Instead of typing on the shell you can do it easier during embedded development. 
+This is a GUI programmer which is used to burn firmware to mcu on linux(ubuntu).
+Instead of typing on the shell you can do it easier during embedded development. 
 ```bash
 cd ~/download
 unzip stc_flash_gui_linux.zip -d stc_flash_gui
@@ -11,5 +11,5 @@ sudo apt install -y python3-tk
 ```bash
 python3 stc_flash_gui.py
 ```
-//Then you can use it on your linux system,have a nice day!
-//You need install sdcc(if you want to complie C source into .hex) and stcgal first.
+Then you can use it on your linux system,have a nice day!
+You need install sdcc(if you want to complie C source into .hex) and stcgal first.
