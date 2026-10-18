@@ -1,4 +1,4 @@
-cd ~/下载
+cd ~/download
 unzip stc_flash_gui_linux.zip -d stc_flash_gui
 cd stc_flash_gui
 
